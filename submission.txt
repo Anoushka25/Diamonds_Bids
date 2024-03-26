@@ -1,0 +1,7 @@
+Git-link:https://github.com/Anoushka25/Diamonds_Bids.git
+
+Colab-link: https://colab.research.google.com/drive/15qu-eQIs-vsT_BcmpNjSkJwaGa66sJH3?usp=sharing
+
+Chat-link: https://docs.google.com/document/d/1Jhxr-pGcA1HU1-iMGZCqwAX8o3UFVtGXrNCKGw2VUwI/edit?usp=sharing
+
+Latex-link: https://www.overleaf.com/project/660261f545ddde40dcad74ed
